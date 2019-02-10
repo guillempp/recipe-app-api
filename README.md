@@ -5,5 +5,6 @@ This is an API created to support a Recipe App. Project in progress from a Udemy
 # What I Learned
 
 * How to set up and use Docker
+* Test Driven Development, how to create tests.
 * How to use Django
-* The list goes on ...
+* How to use Git for version control.
