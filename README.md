@@ -8,3 +8,4 @@ This is an API created to support a Recipe App. Project in progress from a Udemy
 * Test Driven Development, how to create tests.
 * How to use Django
 * How to use Git for version control.
+* How to use Travis CI
